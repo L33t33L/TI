@@ -3698,3 +3698,7 @@ gmslb.net
 safernetwork.io
 tera-home.com
 ninjatech.io
+rosidlhassan.com
+publicftpresend.workers.dev
+*.publicftpresend.workers.dev
+*.workers.dev

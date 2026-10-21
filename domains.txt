@@ -3701,4 +3701,3 @@ ninjatech.io
 rosidlhassan.com
 publicftpresend.workers.dev
 *.publicftpresend.workers.dev
-*.workers.dev

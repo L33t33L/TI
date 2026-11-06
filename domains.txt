@@ -3696,3 +3696,4 @@ rosidlhassan.com
 publicftpresend.workers.dev
 *.publicftpresend.workers.dev
 *.reoswd.com
+*.duckdns.org

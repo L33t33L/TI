@@ -3697,3 +3697,5 @@ publicftpresend.workers.dev
 *.publicftpresend.workers.dev
 *.reoswd.com
 *.duckdns.org
+nagl.com.pg
+thetamarindleafresidency.com
